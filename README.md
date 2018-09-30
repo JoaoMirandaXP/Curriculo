@@ -109,11 +109,7 @@ Raspberry Pi parte 3: Carro espião com câmera, wifi e sensor (de 13/12/2017 a 
 
 Raspberry Pi Servidor: Montando um servidor para desenvolvimento (de 06/02/2018 a 20/02/2018) 8hrs
 
-Design & UX
-
 Premiere: Ritmo de edição e manipulando emoções (de 22/09/2017 a 22/09/2018) 10hrs
-
-Business
 
 Liderança parte 1: Seja líder no novo mercado (de 14/12/2017 a 22/09/2018) 8hrs
 
