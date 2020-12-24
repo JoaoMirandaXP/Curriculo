@@ -1,6 +1,5 @@
 # Curriculo
-É basicamente meu curriculo
-
+Seja bem vindo(a)
 
 João Victor Cavalcante Miranda,
 Brasileiro, Solteiro,18
@@ -16,7 +15,7 @@ Eu estou precisando de dinheiro, para comprar as coisas que gosto, ajudar a fam�
 
 Cursos
 ------------
-    Total=  554 horas estimadas
+    Total=  589 horas estimadas
 
 Android I: Crie sua App fantástica no Eclipse (de 06/02/2018 a 21/09/2018) 12hrs
 
@@ -114,8 +113,11 @@ Premiere: Ritmo de edição e manipulando emoções (de 22/09/2017 a 22/09/2018)
 Liderança parte 1: Seja líder no novo mercado (de 14/12/2017 a 22/09/2018) 8hrs
 
 
-
 https://cursos.alura.com.br/user/JOAOMIRANDA/fullCertificate/a17c66baf7ecfb46712b81a5d64dcf21
+
+Diretor de Imprensa - SalesiONU Online 2020 (de 12/11/2020 a 14/11/2020) 35hrs
+
+https://institutosaojose.org.br/
 
 
 
@@ -128,4 +130,4 @@ Inglês - C1
 Experiência
 ------------
 
-Por enquanto nada
+Participei da Salesionu online como diretor de imprensa na área de logística, desenvolvendo páginas web em formato de blog com o uso do wordpress, criei um sistema funcional de cadastro com node.js e php. Além de fazer duas transmissões ao vivo com média de 50 minutos de duração, fazendo uso de efeitos audiovisuais tais como sons, transições e recursos gráficos.
