@@ -11,7 +11,7 @@ email: ipconfig.linux@gmail.com
 
 Objetivos
 ------------
-Eu estou precisando de dinheiro, para comprar as coisas que gosto, ajudar a família em casa, sem comprometer os estudos,e sem deixar de fazer oque eu já faço de graça
+Eu estou em constante aprendizado, programo para aprender mais e o uso o dinheiro que consigo para comprar as coisas que gosto, ajudar a família em casa, sem comprometer os estudos,e sem deixar de fazer o que eu já faço de graça
 
 Cursos
 ------------
@@ -124,10 +124,11 @@ https://institutosaojose.org.br/
 Idiomas
 ------------
 
-Inglês - C1
+Inglês - B2
 
 
 Experiência
 ------------
 
 Participei da Salesionu online como diretor de imprensa na área de logística, desenvolvendo páginas web em formato de blog com o uso do wordpress, criei um sistema funcional de cadastro com node.js e php. Além de fazer duas transmissões ao vivo com média de 50 minutos de duração, fazendo uso de efeitos audiovisuais tais como sons, transições e recursos gráficos.
+Tenho alguma experiência com python CV, e e alguns projetos de automação 
